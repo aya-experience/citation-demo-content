@@ -8,6 +8,14 @@
     {
       "collection": "Page",
       "id": "getting-started"
+    },
+    {
+      "collection": "Page",
+      "id": "usage"
+    },
+    {
+      "collection": "Page",
+      "id": "faq"
     }
   ]
 }
