@@ -1,1 +1,1 @@
-New third page title test
+The Home Page
