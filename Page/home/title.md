@@ -1,1 +1,1 @@
-The Home Page Toto
+The Home Page
