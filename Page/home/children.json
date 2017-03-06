@@ -2,11 +2,11 @@
   "__role__": "links",
   "links": [
     {
-      "collection": "Content",
+      "collection": "Page",
       "id": "docs"
     },
     {
-      "collection": "Content",
+      "collection": "Page",
       "id": "showcase"
     }
   ]
