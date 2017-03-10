@@ -1,0 +1,23 @@
+{
+	"structures": [
+		{
+			"name": "page",
+			"fields": ["__id__","slug","title"],
+			"objects": {
+				"components": "component",
+				"children": "page"
+			}
+		},
+		{
+			"name": "component",
+			"fields": ["__id__,type"],
+			"objects": {
+				"data": ["page","component","content"]
+			}
+		},
+		{
+			"name": "content",
+			"fields": ["__id__","title","content"]
+		}
+	]
+}
