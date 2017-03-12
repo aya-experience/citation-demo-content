@@ -6,7 +6,7 @@
       "id": "home-banner"
     },
     {
-      "collection": "Page",
+      "collection": "Component",
       "id": "home"
     }
   ]
