@@ -3,6 +3,10 @@
   "links": [
     {
       "collection": "Component",
+      "id": "home-banner"
+    },
+    {
+      "collection": "Page",
       "id": "home"
     }
   ]
