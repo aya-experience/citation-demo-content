@@ -1,4 +1,13 @@
 {
   "__role__": "links",
-  "links": []
+  "links": [
+    {
+      "collection": "Content",
+      "id": "github"
+    },
+    {
+      "collection": "Content",
+      "id": "twitter"
+    }
+  ]
 }
