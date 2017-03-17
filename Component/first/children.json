@@ -3,11 +3,11 @@
   "links": [
     {
       "collection": "Component",
-      "id": "second"
+      "id": "docs"
     },
     {
       "collection": "Component",
-      "id": "third"
+      "id": "thirde"
     }
   ]
 }
