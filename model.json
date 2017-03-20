@@ -1,23 +1,53 @@
-{
-	"structures": [
-		{
-			"name": "page",
-			"fields": ["__id__","slug","title"],
-			"objects": {
-				"components": "component",
-				"children": "page"
+[
+	{
+		"name": "Page",
+		"fields": [
+			{
+				"name": "slug",
+				"type": "text"
+			},
+			{
+				"name": "title",
+				"type": "rich-text"
+			},
+			{
+				"name": "component",
+				"type": ["link", "Component"]
+			},
+			{
+				"name": "children",
+				"type": ["links", "Page"]
 			}
-		},
-		{
-			"name": "component",
-			"fields": ["__id__,type"],
-			"objects": {
-				"data": ["page","component","content"]
+		]
+	},
+	{
+		"name": "Component",
+		"fields": [
+			{
+				"name": "type",
+				"type": "text"
+			},
+			{
+				"name": "children",
+				"type": ["links", "Component"]
+			},
+			{
+				"name": "data",
+				"type": ["links", "*"]
 			}
-		},
-		{
-			"name": "content",
-			"fields": ["__id__","title","content"]
-		}
-	]
-}
+		]
+	},
+	{
+		"name": "Content",
+		"fields": [
+			{
+				"name": "title",
+				"type": "text"
+			},
+			{
+				"name": "content",
+				"type": "rich-text"
+			}
+		]
+	}
+]
