@@ -8,6 +8,10 @@
     {
       "collection": "Component",
       "id": "home-banner"
+    },
+    {
+      "collection": "Content",
+      "id": "three"
     }
   ]
 }
