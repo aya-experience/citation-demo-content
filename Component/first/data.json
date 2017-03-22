@@ -4,6 +4,10 @@
     {
       "collection": "Content",
       "id": "twitter"
+    },
+    {
+      "collection": "Component",
+      "id": "home-banner"
     }
   ]
 }
