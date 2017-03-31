@@ -2,8 +2,8 @@
   "__role__": "links",
   "links": [
     {
-      "collection": "Page",
-      "id": "third"
+      "collection": "Component",
+      "id": "first"
     }
   ]
 }
