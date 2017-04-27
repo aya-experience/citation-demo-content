@@ -1,1 +1,1 @@
-setupe
+setup
