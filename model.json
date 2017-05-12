@@ -1,53 +1,62 @@
 [
-	{
-		"name": "Page",
-		"fields": [
-			{
-				"name": "slug",
-				"type": "text"
-			},
-			{
-				"name": "title",
-				"type": "rich-text"
-			},
-			{
-				"name": "component",
-				"type": ["link", "Component"]
-			},
-			{
-				"name": "children",
-				"type": ["links", "Page"]
-			}
-		]
-	},
-	{
-		"name": "Component",
-		"fields": [
-			{
-				"name": "type",
-				"type": "text"
-			},
-			{
-				"name": "children",
-				"type": ["links", "Component"]
-			},
-			{
-				"name": "data",
-				"type": ["links", "*"]
-			}
-		]
-	},
-	{
-		"name": "Content",
-		"fields": [
-			{
-				"name": "title",
-				"type": "text"
-			},
-			{
-				"name": "content",
-				"type": "rich-text"
-			}
-		]
-	}
+  {
+    "name": "SecondTest",
+    "fields": [
+      {
+        "name": "title",
+        "type": [
+          "text"
+        ]
+      },
+      {
+        "name": "test",
+        "type": [
+          "links",
+          "*"
+        ]
+      },
+      {
+        "name": "new1",
+        "type": [
+          "text"
+        ]
+      },
+      {
+        "name": "new2",
+        "type": [
+          "text"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Test",
+    "fields": [
+      {
+        "name": "title",
+        "type": [
+          "text"
+        ]
+      },
+      {
+        "name": "children",
+        "type": [
+          "links",
+          "Test"
+        ]
+      },
+      {
+        "name": "new1",
+        "type": [
+          "text"
+        ]
+      },
+      {
+        "name": "new2",
+        "type": [
+          "text"
+        ]
+      }
+    ]
+  }
 ]
