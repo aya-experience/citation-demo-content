@@ -4,6 +4,10 @@
     {
       "collection": "Component",
       "id": "second"
+    },
+    {
+      "collection": "Component",
+      "id": "efirst"
     }
   ]
 }
