@@ -8,6 +8,10 @@
     {
       "collection": "Test",
       "id": "first"
+    },
+    {
+      "collection": "Test",
+      "id": "third"
     }
   ]
 }
