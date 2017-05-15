@@ -12,6 +12,10 @@
     {
       "collection": "Page",
       "id": "docs"
+    },
+    {
+      "collection": "Test",
+      "id": "docs"
     }
   ]
 }
