@@ -12,6 +12,10 @@
     {
       "collection": "Page",
       "id": "faq"
+    },
+    {
+      "collection": "Page",
+      "id": "docs"
     }
   ]
 }
