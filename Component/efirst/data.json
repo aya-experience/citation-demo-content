@@ -4,6 +4,10 @@
     {
       "collection": "Page",
       "id": "docs"
+    },
+    {
+      "collection": "Page",
+      "id": "docs"
     }
   ]
 }
