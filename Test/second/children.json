@@ -1,0 +1,13 @@
+{
+  "__role__": "links",
+  "links": [
+    {
+      "collection": "Test",
+      "id": "first"
+    },
+    {
+      "collection": "Test",
+      "id": "first"
+    }
+  ]
+}
