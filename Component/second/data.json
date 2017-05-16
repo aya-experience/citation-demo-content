@@ -2,15 +2,7 @@
   "__role__": "links",
   "links": [
     {
-      "collection": "Content",
-      "id": "second"
-    },
-    {
       "collection": "Page",
-      "id": "docs"
-    },
-    {
-      "collection": "Content",
       "id": "docs"
     }
   ]
