@@ -24,6 +24,10 @@
     {
       "collection": "Content",
       "id": "laste"
+    },
+    {
+      "collection": "Test",
+      "id": "second"
     }
   ]
 }
