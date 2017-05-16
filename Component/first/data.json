@@ -32,6 +32,10 @@
     {
       "collection": "Component",
       "id": "home"
+    },
+    {
+      "collection": "Page",
+      "id": "docs"
     }
   ]
 }
