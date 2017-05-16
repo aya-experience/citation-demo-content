@@ -8,6 +8,10 @@
     {
       "collection": "Page",
       "id": "faq"
+    },
+    {
+      "collection": "Component",
+      "id": "first"
     }
   ]
 }
