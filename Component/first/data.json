@@ -15,7 +15,11 @@
     },
     {
       "collection": "Component",
-      "id": "home-child"
+      "id": "efirst"
+    },
+    {
+      "collection": "Test",
+      "id": "first"
     }
   ]
 }
