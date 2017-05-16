@@ -28,6 +28,10 @@
     {
       "collection": "Test",
       "id": "second"
+    },
+    {
+      "collection": "Component",
+      "id": "home"
     }
   ]
 }
