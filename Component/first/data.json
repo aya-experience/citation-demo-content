@@ -20,6 +20,10 @@
     {
       "collection": "Test",
       "id": "first"
+    },
+    {
+      "collection": "Component",
+      "id": "docs"
     }
   ]
 }
