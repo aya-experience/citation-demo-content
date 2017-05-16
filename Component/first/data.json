@@ -12,10 +12,6 @@
     {
       "collection": "Component",
       "id": "home"
-    },
-    {
-      "collection": "Component",
-      "id": "docs"
     }
   ]
 }
