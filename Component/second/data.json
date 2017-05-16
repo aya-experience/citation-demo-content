@@ -8,6 +8,10 @@
     {
       "collection": "Component",
       "id": "home"
+    },
+    {
+      "collection": "Content",
+      "id": "bwoha"
     }
   ]
 }
