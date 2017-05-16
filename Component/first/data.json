@@ -14,7 +14,7 @@
       "id": "home"
     },
     {
-      "collection": "Page",
+      "collection": "Component",
       "id": "docs"
     }
   ]
