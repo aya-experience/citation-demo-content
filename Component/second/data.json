@@ -8,6 +8,10 @@
     {
       "collection": "Page",
       "id": "docs"
+    },
+    {
+      "collection": "Content",
+      "id": "docs"
     }
   ]
 }
