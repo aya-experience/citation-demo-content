@@ -6,28 +6,8 @@
       "id": "docs"
     },
     {
-      "collection": "Page",
-      "id": "faq"
-    },
-    {
       "collection": "Component",
       "id": "first"
-    },
-    {
-      "collection": "Component",
-      "id": "efirst"
-    },
-    {
-      "collection": "Test",
-      "id": "first"
-    },
-    {
-      "collection": "Content",
-      "id": "laste"
-    },
-    {
-      "collection": "Test",
-      "id": "second"
     },
     {
       "collection": "Component",
