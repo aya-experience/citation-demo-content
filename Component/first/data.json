@@ -1,13 +1,4 @@
 {
   "__role__": "links",
-  "links": [
-    {
-      "collection": "Page",
-      "id": "docs"
-    },
-    {
-      "collection": "Content",
-      "id": "docs"
-    }
-  ]
+  "links": []
 }
