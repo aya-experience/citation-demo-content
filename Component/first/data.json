@@ -16,10 +16,6 @@
     {
       "collection": "Page",
       "id": "docs"
-    },
-    {
-      "collection": "Component",
-      "id": "docs"
     }
   ]
 }
