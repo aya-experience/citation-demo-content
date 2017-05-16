@@ -8,14 +8,6 @@
     {
       "collection": "Component",
       "id": "home"
-    },
-    {
-      "collection": "Page",
-      "id": "docs"
-    },
-    {
-      "collection": "Test",
-      "id": "docs"
     }
   ]
 }
