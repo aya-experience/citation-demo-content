@@ -2,6 +2,10 @@
   "__role__": "links",
   "links": [
     {
+      "collection": "Test",
+      "id": "ploup"
+    },
+    {
       "collection": "Page",
       "id": "docs"
     }
