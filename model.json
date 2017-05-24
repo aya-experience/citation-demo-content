@@ -1,5 +1,22 @@
 [
   {
+    "name": "ParticlesParameters",
+    "fields": [
+      {
+				"name": "particles",
+				"type": ["json"]
+			},
+			{
+				"name": "interactivity",
+				"type": ["json"]
+			},
+			{
+				"name": "retina_detect",
+				"type": ["boolean"]
+			}
+    ]
+  },
+  {
     "name": "SecondTest",
     "fields": [
       {
