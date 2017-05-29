@@ -1,6 +1,6 @@
 {
-	"__role__": "map-links",
-	"map-links": {
+	"__role__": "map",
+	"map": {
 		"params" : {
 			"collection": "ParticlesParameters",
 			"id": "one"
