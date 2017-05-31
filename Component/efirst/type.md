@@ -1,1 +1,1 @@
-Componente
+Component

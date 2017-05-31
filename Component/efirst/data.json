@@ -4,6 +4,18 @@
     {
       "collection": "Page",
       "id": "docs"
+    },
+    {
+      "collection": "Component",
+      "id": "first"
+    },
+    {
+      "collection": "Component",
+      "id": "home"
+    },
+    {
+      "collection": "Content",
+      "id": "home-banner-1"
     }
   ]
 }
