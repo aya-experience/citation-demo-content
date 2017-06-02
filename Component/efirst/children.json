@@ -4,6 +4,10 @@
     {
       "collection": "Component",
       "id": "efirst"
+    },
+    {
+      "collection": "Page",
+      "id": "home"
     }
   ]
 }
