@@ -1,5 +1,14 @@
 [
   {
+    "name": "ParticlesParameters",
+    "fields": [
+      {
+        "name": "__value__",
+        "type": "json"
+      }
+    ]
+  },
+  {
     "name": "SecondTest",
     "fields": [
       {
