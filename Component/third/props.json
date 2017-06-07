@@ -2,8 +2,8 @@
   "__role__": "map",
   "map": {
     "myProp": {
-      "collection": "Page",
-      "id": null
+      "collection": "Component",
+      "id": "home"
     }
   }
 }
