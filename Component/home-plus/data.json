@@ -16,6 +16,10 @@
     {
       "collection": "Content",
       "id": "home-plus-techs"
+    },
+    {
+      "collection": "Content",
+      "id": "home-plus-perf"
     }
   ]
 }
