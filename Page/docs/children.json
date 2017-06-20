@@ -11,11 +11,11 @@
     },
     {
       "collection": "Page",
-      "id": "usage"
+      "id": "faq"
     },
     {
       "collection": "Page",
-      "id": "faq"
+      "id": "usage"
     }
   ]
 }
