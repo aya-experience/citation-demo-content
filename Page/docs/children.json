@@ -3,15 +3,15 @@
   "links": [
     {
       "collection": "Page",
+      "id": "usage"
+    },
+    {
+      "collection": "Page",
       "id": "getting-started"
     },
     {
       "collection": "Page",
       "id": "faq"
-    },
-    {
-      "collection": "Page",
-      "id": "usage"
     },
     {
       "collection": "Page",
