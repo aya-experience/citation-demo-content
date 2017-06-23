@@ -7,11 +7,11 @@
     },
     {
       "collection": "Component",
-      "id": "first"
+      "id": "home"
     },
     {
       "collection": "Component",
-      "id": "home"
+      "id": "first"
     }
   ]
 }
