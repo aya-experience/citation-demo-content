@@ -1,9 +1,0 @@
-{
-  "__role__": "map",
-  "map": {
-    "myProp": {
-      "collection": "Component",
-      "id": "first"
-    }
-  }
-}
