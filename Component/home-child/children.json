@@ -7,11 +7,11 @@
     },
     {
       "collection": "Component",
-      "id": "home"
+      "id": "home-plus"
     },
     {
       "collection": "Component",
-      "id": "home-plus"
+      "id": "home"
     }
   ]
 }
