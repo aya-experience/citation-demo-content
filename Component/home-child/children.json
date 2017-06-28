@@ -7,6 +7,10 @@
     },
     {
       "collection": "Component",
+      "id": "home"
+    },
+    {
+      "collection": "Component",
       "id": "home-plus"
     }
   ]
