@@ -3,10 +3,6 @@
   "links": [
     {
       "collection": "Component",
-      "id": "home-banner"
-    },
-    {
-      "collection": "Component",
       "id": "home-plus"
     },
     {
