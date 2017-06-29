@@ -3,15 +3,15 @@
   "links": [
     {
       "collection": "Component",
+      "id": "home-banner"
+    },
+    {
+      "collection": "Component",
       "id": "home-child"
     },
     {
       "collection": "Component",
       "id": "top-menu"
-    },
-    {
-      "collection": "Component",
-      "id": "home-banner"
     }
   ]
 }
