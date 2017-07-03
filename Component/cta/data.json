@@ -1,9 +1,9 @@
 {
-  "__role__": "map",
-  "map": {
-    "data": {
+  "__role__": "links",
+  "links": [
+    {
       "collection": "CTA",
       "id": "cta_setup"
     }
-  }
+  ]
 }
