@@ -3,11 +3,11 @@
   "links": [
     {
       "collection": "Component",
-      "id": "home-banner"
+      "id": "top-menu"
     },
     {
       "collection": "Component",
-      "id": "top-menu"
+      "id": "home-banner"
     },
     {
       "collection": "Component",
