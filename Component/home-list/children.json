@@ -11,10 +11,6 @@
     },
     {
       "collection": "Component",
-      "id": "cta"
-    },
-    {
-      "collection": "Component",
       "id": "home-banner"
     }
   ]
