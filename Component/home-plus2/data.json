@@ -2,8 +2,8 @@
   "__role__": "links",
   "links": [
     {
-      "collection": "Content",
-      "id": "home-plus-git"
+      "collection": "CTA",
+      "id": "cta_setup"
     }
   ]
 }
