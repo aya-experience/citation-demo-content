@@ -8,6 +8,10 @@
     {
       "collection": "Component",
       "id": "top-menu"
+    },
+    {
+      "collection": "Component",
+      "id": "test"
     }
   ]
 }
