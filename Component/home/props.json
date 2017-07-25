@@ -1,9 +1,0 @@
-{
-  "__role__": "map",
-  "map": {
-    "params": {
-      "collection": "ParticlesParameters",
-      "id": "one"
-    }
-  }
-}
