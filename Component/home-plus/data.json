@@ -1,0 +1,25 @@
+{
+  "__role__": "links",
+  "links": [
+    {
+      "collection": "HomePlusContent",
+      "id": "home-plus-git"
+    },
+    {
+      "collection": "HomePlusContent",
+      "id": "home-plus-os"
+    },
+    {
+      "collection": "HomePlusContent",
+      "id": "home-plus-perf"
+    },
+    {
+      "collection": "HomePlusContent",
+      "id": "home-plus-souple"
+    },
+    {
+      "collection": "HomePlusContent",
+      "id": "home-plus-techs"
+    }
+  ]
+}
