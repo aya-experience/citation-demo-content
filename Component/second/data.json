@@ -1,0 +1,17 @@
+{
+  "__role__": "links",
+  "links": [
+    {
+      "collection": "Page",
+      "id": "docs"
+    },
+    {
+      "collection": "Component",
+      "id": "home"
+    },
+    {
+      "collection": "Component",
+      "id": "first"
+    }
+  ]
+}
