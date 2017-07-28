@@ -1,0 +1,19 @@
+{
+  "__role__": "map",
+  "map": {
+    "data": [
+      {
+        "collection": "Page",
+        "id": "docs"
+      },
+      {
+        "collection": "Component",
+        "id": "first"
+      },
+      {
+        "collection": "Component",
+        "id": "home"
+      }
+    ]
+  }
+}
