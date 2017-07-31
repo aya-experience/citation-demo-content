@@ -5,6 +5,10 @@
       {
         "collection": "HomePlusContent",
         "id": "home-plus-os"
+      },
+      {
+        "collection": "HomePlusContent",
+        "id": "home-plus-perf"
       }
     ]
   }
