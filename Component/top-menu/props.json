@@ -5,6 +5,10 @@
       {
         "collection": "Content",
         "id": "github"
+      },
+      {
+        "collection": "Content",
+        "id": "twitter"
       }
     ]
   }
