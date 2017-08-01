@@ -2,8 +2,8 @@
   "__role__": "map",
   "map": {
     "data": {
-      "collection": "Page",
-      "id": null
+      "collection": "Content",
+      "id": "twitter"
     }
   }
 }
