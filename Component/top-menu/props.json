@@ -1,0 +1,15 @@
+{
+  "__role__": "map",
+  "map": {
+    "data": [
+      {
+        "collection": "Content",
+        "id": "twitter"
+      },
+      {
+        "collection": "Content",
+        "id": "github"
+      }
+    ]
+  }
+}
