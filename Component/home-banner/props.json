@@ -4,10 +4,6 @@
     "image": {
       "collection": "Content",
       "id": "home-banner-1"
-    },
-    "cta": {
-      "collection": "CTA",
-      "id": "cta_setup"
     }
   }
 }
