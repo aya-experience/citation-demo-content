@@ -1,0 +1,17 @@
+{
+  "__role__": "links",
+  "links": [
+    {
+      "collection": "Page",
+      "id": "getting-started"
+    },
+    {
+      "collection": "Page",
+      "id": "setup"
+    },
+    {
+      "collection": "Page",
+      "id": "faq"
+    }
+  ]
+}

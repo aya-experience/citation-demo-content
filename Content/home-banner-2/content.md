@@ -1,0 +1,1 @@
+Add content management with a single dependency

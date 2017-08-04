@@ -1,0 +1,28 @@
+[
+  {
+    "name": "ParticlesParameters",
+    "fields": [
+      {
+        "name": "__value__",
+        "type": "json"
+      }
+    ]
+  },
+  {
+    "name": "Content",
+    "fields": [
+      {
+        "name": "title",
+        "type": [
+          "text"
+        ]
+      },
+      {
+        "name": "content",
+        "type": [
+          "text"
+        ]
+      }
+    ]
+  }
+]
