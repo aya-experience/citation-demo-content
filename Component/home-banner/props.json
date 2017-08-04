@@ -1,19 +1,13 @@
 {
   "__role__": "map",
   "map": {
-    "data": [
-      {
-        "collection": "Content",
-        "id": "home-banner-1"
-      },
-      {
-        "collection": "Content",
-        "id": "home-banner-2"
-      },
-      {
-        "collection": "Content",
-        "id": "home-banner-3"
-      }
-    ]
+    "cta": {
+      "collection": "CTA",
+      "id": "cta_setup"
+    },
+    "image": {
+      "collection": "Content",
+      "id": "home-banner-1"
+    }
   }
 }
