@@ -1,7 +1,7 @@
 {
   "__role__": "map",
   "map": {
-    "data": [
+    "links": [
       {
         "collection": "Content",
         "id": "twitter"
