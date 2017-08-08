@@ -4,6 +4,10 @@
     {
       "collection": "Component",
       "id": "cta"
+    },
+    {
+      "collection": "Component",
+      "id": "homme-banner-image"
     }
   ]
 }
