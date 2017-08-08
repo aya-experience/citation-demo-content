@@ -1,7 +1,7 @@
 {
   "__role__": "map",
   "map": {
-    "data": {
+    "test": {
       "collection": "ImageType",
       "id": "home-banner-image"
     }
