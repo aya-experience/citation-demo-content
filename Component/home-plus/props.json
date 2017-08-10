@@ -1,9 +1,11 @@
 {
   "__role__": "map",
   "map": {
-    "data": {
-      "collection": "Content",
-      "id": "home-banner-3"
-    }
+    "data": [
+      {
+        "collection": "Content",
+        "id": "home-banner-3"
+      }
+    ]
   }
 }
