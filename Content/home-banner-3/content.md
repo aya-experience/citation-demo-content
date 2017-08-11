@@ -1,1 +1,0 @@
-Deploy a statically generated website
