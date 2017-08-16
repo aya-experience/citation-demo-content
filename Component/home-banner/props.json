@@ -1,0 +1,9 @@
+{
+  "__role__": "map",
+  "map": {
+    "image": {
+      "collection": "ImageType",
+      "id": "home-banner-image"
+    }
+  }
+}

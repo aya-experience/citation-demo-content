@@ -1,0 +1,70 @@
+[
+  {
+    "name": "ParticlesParameters",
+    "fields": [
+      {
+        "name": "__value__",
+        "type": [
+          "string"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HomePlusContent",
+    "fields": [
+      {
+        "name": "align",
+        "type": [
+          "string"
+        ]
+      },
+      {
+        "name": "content",
+        "type": [
+          "richtext"
+        ]
+      },
+      {
+        "name": "image",
+        "type": [
+          "string"
+        ]
+      },
+      {
+        "name": "title",
+        "type": [
+          "string"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CTA",
+    "fields": [
+      {
+        "name": "target",
+        "type": [
+          "string"
+        ]
+      },
+      {
+        "name": "title",
+        "type": [
+          "string"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ImageType",
+    "fields": [
+      {
+        "name": "image",
+        "type": [
+          "image"
+        ]
+      }
+    ]
+  }
+]
