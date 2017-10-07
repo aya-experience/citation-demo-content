@@ -3,7 +3,7 @@
     "name": "ParticlesParameters",
     "fields": [
       {
-        "name": "__value__",
+        "name": "_value_",
         "type": [
           "string"
         ]
