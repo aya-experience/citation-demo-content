@@ -1,7 +1,7 @@
 {
   "_role_": "link",
   "link": {
-    "collection": "Component",
+    "type": "Component",
     "id": "home-list"
   }
 }

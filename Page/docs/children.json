@@ -2,15 +2,15 @@
   "_role_": "links",
   "links": [
     {
-      "collection": "Page",
+      "type": "Page",
       "id": "getting-started"
     },
     {
-      "collection": "Page",
+      "type": "Page",
       "id": "setup"
     },
     {
-      "collection": "Page",
+      "type": "Page",
       "id": "faq"
     }
   ]

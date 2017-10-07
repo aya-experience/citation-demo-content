@@ -2,7 +2,7 @@
   "_role_": "map",
   "map": {
     "data": {
-      "collection": "Content",
+      "type": "Content",
       "id": "getting-started-content"
     }
   }

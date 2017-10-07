@@ -2,7 +2,7 @@
   "_role_": "links",
   "links": [
     {
-      "collection": "Component",
+      "type": "Component",
       "id": "home"
     }
   ]

@@ -3,11 +3,11 @@
   "map": {
     "links": [
       {
-        "collection": "Content",
+        "type": "Content",
         "id": "twitter"
       },
       {
-        "collection": "Content",
+        "type": "Content",
         "id": "github"
       }
     ]

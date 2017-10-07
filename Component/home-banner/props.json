@@ -2,7 +2,7 @@
   "_role_": "map",
   "map": {
     "image": {
-      "collection": "ImageType",
+      "type": "ImageType",
       "id": "home-banner-image"
     }
   }

@@ -2,15 +2,15 @@
   "_role_": "links",
   "links": [
     {
-      "collection": "Component",
+      "type": "Component",
       "id": "top-menu"
     },
     {
-      "collection": "Component",
+      "type": "Component",
       "id": "home-banner"
     },
     {
-      "collection": "Component",
+      "type": "Component",
       "id": "home-plus"
     }
   ]
