@@ -1,5 +1,5 @@
 {
-  "__role__": "link",
+  "_role_": "link",
   "link": {
     "collection": "Component",
     "id": "home-list"
